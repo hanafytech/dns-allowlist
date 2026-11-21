@@ -2,3 +2,4 @@
 @@||html-load.com^
 @@||discord.com^
 @@||redirectingat.com^
+@@||kraken.com^
